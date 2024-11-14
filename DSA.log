@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.10.24)  14 NOV 2024 17:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.10.24)  14 NOV 2024 21:18
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -942,7 +942,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 109--113
 
  []
 
-<Images/LLarray.png, id=129, 1591.9475pt x 313.17pt>
+<Images/LLarray.png, id=150, 1591.9475pt x 313.17pt>
 File: Images/LLarray.png Graphic file (type png)
 <use Images/LLarray.png>
 Package pdftex.def Info: Images/LLarray.png  used on input line 116.
@@ -952,7 +952,7 @@ Overfull \hbox (45.29955pt too wide) in paragraph at lines 116--117
  [][] 
  []
 
-<Images/CreateLL.png, id=131, 1164.35pt x 1196.47pt>
+<Images/CreateLL.png, id=152, 1164.35pt x 1196.47pt>
 File: Images/CreateLL.png Graphic file (type png)
 <use Images/CreateLL.png>
 Package pdftex.def Info: Images/CreateLL.png  used on input line 125.
@@ -964,12 +964,12 @@ has been already used, duplicate ignored
                                                   \__shipout_drop_firstpage_...
 l.128 	
         <./Images/LLarray.png>]
-<Images/1to5ll.png, id=139, 905.3825pt x 75.28125pt>
+<Images/1to5ll.png, id=160, 905.3825pt x 75.28125pt>
 File: Images/1to5ll.png Graphic file (type png)
 <use Images/1to5ll.png>
 Package pdftex.def Info: Images/1to5ll.png  used on input line 134.
 (pdftex.def)             Requested size: 362.37569pt x 30.13033pt.
-<Images/1to3dll.png, id=140, 683.55376pt x 116.435pt>
+<Images/1to3dll.png, id=161, 683.55376pt x 116.435pt>
 File: Images/1to3dll.png Graphic file (type png)
 <use Images/1to3dll.png>
 Package pdftex.def Info: Images/1to3dll.png  used on input line 147.
@@ -984,12 +984,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [8 <./Images/CreateLL.png (PNG copy)> <./Images/1to5ll.png>]
-<Images/1to3cll.png, id=147, 446.66875pt x 180.675pt>
+<Images/1to3cll.png, id=169, 446.66875pt x 180.675pt>
 File: Images/1to3cll.png Graphic file (type png)
 <use Images/1to3cll.png>
 Package pdftex.def Info: Images/1to3cll.png  used on input line 156.
 (pdftex.def)             Requested size: 226.48395pt x 91.6137pt.
-<Images/ArrToLL.png, id=148, 1477.52pt x 835.12pt>
+<Images/ArrToLL.png, id=170, 1477.52pt x 835.12pt>
 File: Images/ArrToLL.png Graphic file (type png)
 <use Images/ArrToLL.png>
 Package pdftex.def Info: Images/ArrToLL.png  used on input line 164.
@@ -1005,6 +1005,30 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [9 <./Images/1to3dll.png> <./Images/1to3cll.png> <./Images/ArrToLL.png (PNG cop
 y)>]
+<Images/LengthOfLL.png, id=179, 881.2925pt x 690.58pt>
+File: Images/LengthOfLL.png Graphic file (type png)
+<use Images/LengthOfLL.png>
+Package pdftex.def Info: Images/LengthOfLL.png  used on input line 172.
+(pdftex.def)             Requested size: 362.37569pt x 283.951pt.
+<Images/deletehead.png, id=180, 919.435pt x 350.30875pt>
+File: Images/deletehead.png Graphic file (type png)
+<use Images/deletehead.png>
+Package pdftex.def Info: Images/deletehead.png  used on input line 180.
+(pdftex.def)             Requested size: 498.26744pt x 189.84276pt.
+
+Overfull \hbox (27.99371pt too wide) in paragraph at lines 179--181
+[]  []
+ []
+
+<Images/deleteheadcode.png, id=181, 1132.23pt x 798.985pt>
+File: Images/deleteheadcode.png Graphic file (type png)
+<use Images/deleteheadcode.png>
+Package pdftex.def Info: Images/deleteheadcode.png  used on input line 187.
+(pdftex.def)             Requested size: 452.9679pt x 319.64929pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1013,7 +1037,75 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[10]
+[10
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.190 	
+        <./Images/LengthOfLL.png (PNG copy)> <./Images/deletehead.png>]
+<Images/deletetailcode.png, id=188, 1116.17pt x 907.39pt>
+File: Images/deletetailcode.png Graphic file (type png)
+<use Images/deletetailcode.png>
+Package pdftex.def Info: Images/deletetailcode.png  used on input line 193.
+(pdftex.def)             Requested size: 362.37569pt x 294.59364pt.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 197.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 197.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 197.
+
+<Images/deletekthnodecode.png, id=189, 1233.60875pt x 606.265pt>
+File: Images/deletekthnodecode.png Graphic file (type png)
+<use Images/deletekthnodecode.png>
+Package pdftex.def Info: Images/deletekthnodecode.png  used on input line 200.
+(pdftex.def)             Requested size: 498.26744pt x 244.86992pt.
+
+Overfull \hbox (30.83899pt too wide) in paragraph at lines 199--202
+[]  []
+ []
+
+<Images/deleteknode.png, id=190, 1100.11pt x 1160.335pt>
+File: Images/deleteknode.png Graphic file (type png)
+<use Images/deleteknode.png>
+Package pdftex.def Info: Images/deleteknode.png  used on input line 205.
+(pdftex.def)             Requested size: 362.37569pt x 382.20352pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[11 <./Images/deleteheadcode.png (PNG copy)> <./Images/deletetailcode.png (PNG 
+copy)>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[12 <./Images/deletekthnodecode.png (PNG copy)> <./Images/deleteknode.png (PNG 
+copy)>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[13]
 \openout3 = `DSA.pyg'.
 
  (./_minted-DSA/default.pygstyle)
@@ -1030,8 +1122,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[11]
-Underfull \hbox (badness 10000) in paragraph at lines 242--248
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 282--288
 
  []
 
@@ -1043,11 +1135,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[12]
-Chapter 3.
-[13
-
-]
+[15]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1056,7 +1144,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[14] (./DSA.aux)
+[16
+
+]
+Chapter 3.
+[17]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[18] (./DSA.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -1066,33 +1167,35 @@ L3 programming layer <2024-01-22>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `DSA.out' has not changed.
-(rerunfilecheck)             Checksum: ED3DF54047528432352445ABA06B1805;2489.
+(rerunfilecheck)             Checksum: BD65016FC931FABA8AB09CADE5D2423C;3369.
 runsystem(rm DSA.pyg)...executed.
 
  ) 
 Here is how much of TeX's memory you used:
- 26261 strings out of 474222
- 507575 string characters out of 5748732
+ 26334 strings out of 474222
+ 509415 string characters out of 5748732
  1941975 words of memory out of 5000000
- 48044 multiletter control sequences out of 15000+600000
+ 48108 multiletter control sequences out of 15000+600000
  568795 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,11n,87p,540b,754s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmtt12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmtt8.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on DSA.pdf (14 pages, 516216 bytes).
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></
+usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on DSA.pdf (18 pages, 1125439 bytes).
 PDF statistics:
- 251 PDF objects out of 1000 (max. 8388607)
- 199 compressed objects within 2 object streams
- 47 named destinations out of 1000 (max. 500000)
- 171 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 308 PDF objects out of 1000 (max. 8388607)
+ 240 compressed objects within 3 object streams
+ 56 named destinations out of 1000 (max. 500000)
+ 233 words of extra memory for PDF output out of 10000 (max. 10000000)
 
