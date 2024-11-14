@@ -1,0 +1,20 @@
+\contentsline {chapter}{\numberline {1}C++ STL (Standard Template Libraries)}{5}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Vectors}{5}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Declaring and initializing a vector}{5}{subsection.1.1.1}%
+\contentsline {chapter}{\numberline {2}Data Structures}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Types of Data Structures}{7}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Linked Lists}{7}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Creating a linked list}{8}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Types of linked lists}{8}{subsection.2.2.2}%
+\contentsline {subsubsection}{Singly Linked Lists}{8}{section*.1}%
+\contentsline {subsubsection}{Doubly Linked Lists}{9}{section*.2}%
+\contentsline {subsubsection}{Circular Linked Lists}{9}{section*.3}%
+\contentsline {subsection}{\numberline {2.2.3}Creating a linked list from an array}{9}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}Stacks}{10}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Implementing a stack using arrays}{10}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Procedure}{10}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}FAQs}{12}{subsection.2.3.3}%
+\contentsline {subsubsection}{1. Next Greater Element}{12}{section*.4}%
+\contentsline {chapter}{\numberline {3}Sorting Algorithms}{13}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Bubble Sort}{13}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Quick Sort}{13}{section.3.2}%
