@@ -4,7 +4,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage{amsmath, amssymb, amsthm} % For math symbols and environments
 \usepackage{graphicx} % For including images
-\usepackage{hyperref} % For clickable links
+\usepackage{hyperref}% For clickable links
 \usepackage{xcolor} % For colors
 \usepackage[Conny]{fncychap} % A style of presenting chapters
 \usepackage[]{minted}
@@ -26,7 +26,7 @@
 }
 
 
-\graphicspath{{Images/}}
+\graphicspath{{images/}{snippets/}}
 
 \hypersetup{    % Here referencing is customized 
 	colorlinks = true, % If true, the referencing texts will be colored
@@ -207,6 +207,44 @@
 	\end{figure}
 	\newpage
 	
+	\subsection{Find middle node of a Linked List}
+		Here middle element refers to $\lfloor{\frac{n}{2}\rfloor}th$ element, where $n$ is the number of nodes in the linked list.
+		The following approach can be used to do this efficiently- \\ \\
+		Initialize 2 pointers, 
+		\begin{itemize}
+			\item \textbf{slow}: points to the head of linked list and travels node by node
+			\item \textbf{fast}: points to the second node (if exists) and travels two nodes at a time
+		\end{itemize}
+		After this process is over, $i.e.$, when the fast pointer can no longer traverse the linked list, the slow pointer is pointing to the middle node of the linked list.
+		
+		\begin{figure}[h] 
+			\centering
+			\includegraphics[width=1.1\textwidth]{midnode.png}
+			\label{fig:findmidnode}
+		\end{figure}
+		
+		
+		\begin{tcolorbox}[]
+			\begin{minted}[autogobble]{cpp}
+Node* findMiddle(Node* head) {
+	// if nodes <= 1, return immediately
+	if (head == nullptr || head->next == nullptr) {
+		return head;
+	}
+	Node* slow = head;
+	Node* fast = head->next;
+					
+	while (fast != nullptr && fast->next != nullptr) {
+		fast = fast->next->next;
+		slow = slow->next; 
+	}
+					
+	return slow;
+}
+			\end{minted}
+		\end{tcolorbox}
+		
+	\newpage
 	\section{Stacks}
 	A stack is a linear data structure that follows the Last In, First Out (LIFO) principle. This means that the last element added to the stack will be the first one to be removed.
 	\subsection{Implementing a stack using arrays} 
